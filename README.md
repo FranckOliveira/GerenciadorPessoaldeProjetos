@@ -46,10 +46,9 @@ Objetivo: Resolver a organização de tarefas de um ou mais projetos.
 
 
 
-
 ## 📌 Versão
 
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
+
 
 ## ✒️ Autor
 
