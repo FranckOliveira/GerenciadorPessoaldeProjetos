@@ -7,19 +7,19 @@ Objetivo: Resolver a organização de tarefas de um ou mais projetos.
 
 ### 🚀 Entidades
 
--Projeto;
-	-Nome
-	-Descrição
-	-Data de Criação
-	-Data de Atualização
--Tarefa;
-	-Nome
-	-Definição
-	-Status
-	-Observações
-	-Prazo
-	-Data de Criação
-	-Data de Atualização
+- Projeto;
+	- Nome;
+	- Descrição;
+	- Data de Criação;
+	- Data de Atualização;
+- Tarefa;
+	- Nome
+	- Definição
+	- Status
+	- Observações
+	- Prazo
+	- Data de Criação
+	- Data de Atualização
 
 
 ### 📋 Requisitos
