@@ -7,12 +7,12 @@ Objetivo: Resolver a organização de tarefas de um ou mais projetos.
 
 ## 🚀 Entidades:
 
-- Projeto;
+Projeto;
 	-Nome
 	-Descrição
 	-Data de Criação
 	-Data de Atualização
-- Tarefa;
+Tarefa;
 	-Nome
 	-Definição
 	-Status
