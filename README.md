@@ -5,14 +5,14 @@ Descrição: Aplicação para o gerenciamento de projetos e suas tarefas.
 Objetivo: Resolver a organização de tarefas de um ou mais projetos.
 
 
-## 🚀 Entidades:
+### 🚀 Entidades:
 
-Projeto;
+-Projeto;
 	-Nome
 	-Descrição
 	-Data de Criação
 	-Data de Atualização
-Tarefa;
+-Tarefa;
 	-Nome
 	-Definição
 	-Status
