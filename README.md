@@ -4,6 +4,22 @@ Descrição: Aplicação para o gerenciamento de projetos e suas tarefas.
 
 Objetivo: Resolver a organização de tarefas de um ou mais projetos.
 
+# Andamento do projeto
+ Criação do banco de dados (OK)
+- Criação das classes de modelo (OK)
+- Criação de conexão com o banco de dados (OK)
+- Criação das classes de controle (Acesso aos dados do banco)(OK)
+- Criação da interface gráfica (OK)
+	- Criação da tela principal(OK)
+		- Criação do CellRederer Prazo (OK)
+		- Criação do CellRederer Editar e Deletar (OK)
+	- Criação da tela de Cadatro de Projetos (OK)
+	- Criação da tela de Cadastro de Tarefa (OK)
+- Implementação dos eventos
+	- Validações
+- Ajustes finais
+- Teste da aplicação
+
 
 ### 🚀 Entidades
 
