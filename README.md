@@ -15,8 +15,8 @@ Objetivo: Resolver a organização de tarefas de um ou mais projetos.
 		- Criação do CellRederer Editar e Deletar (OK)
 	- Criação da tela de Cadatro de Projetos (OK)
 	- Criação da tela de Cadastro de Tarefa (OK)
-- Implementação dos eventos
-	- Validações
+- Implementação dos eventos (OK)
+	- Validações (OK)
 - Ajustes finais
 - Teste da aplicação
 
